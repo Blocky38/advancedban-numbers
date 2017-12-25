@@ -1,0 +1,5 @@
+name: Advancedbans-Numbers
+version: 1.0
+main: de.phyrone.phybansystem.BansysPlugin
+softdepend: [AdvancedBan]
+author: Phyrone
